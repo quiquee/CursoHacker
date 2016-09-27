@@ -2,27 +2,27 @@
 
 #H2 Calendario
 
-..1. Curso de verano: Precurso de introducción a la ciencia del hackeo
-..1. Semana 19 Septiembre: Usando un servidor conectado a Internet
-..1. Semana 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline
+  1. Curso de verano: Precurso de introducción a la ciencia del hackeo
+  1. Semana 19 Septiembre: Usando un servidor conectado a Internet
+  1. Semana 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline
 
 
 #H3 Administración de Sistemas
 
 Curso de verano:
-..* Principios de TCP/IP : ping, direcciones IP
-..* Estructura de directorios
-..* cd, ls , mkdir, rmdir, alias
+  * Principios de TCP/IP : ping, direcciones IP
+  * Estructura de directorios
+  * cd, ls , mkdir, rmdir, alias
 
 
 Semana 1:
-..* Accediendo a un servidor    
-..* Creando una cuenta: adduser
-..* Viendo quién ha hecho login: last
-..* Viendo quien está en línea: who
-..* Convirtiéndose en otro usuario: su
-..* Cambiando password: passwd
-..* Ejecutando órdenes como super usuario: sudo
+  * Accediendo a un servidor    
+  * Creando una cuenta: adduser
+  * Viendo quién ha hecho login: last
+  * Viendo quien está en línea: who
+  * Convirtiéndose en otro usuario: su
+  * Cambiando password: passwd
+  * Ejecutando órdenes como super usuario: sudo
     
     
 #H3 Principios de Criptografía
