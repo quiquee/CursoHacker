@@ -6,17 +6,16 @@
   1. Semana 1 19 Septiembre: Usando un servidor conectado a Internet
   1. Semana 2 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline, más sobre la línea de comandos
   1. Semana 3 2 Octubre: Usando bash, línea de comandos avanzada. Resolución de direcciones: DNS, digg
-
+  1. Semana 4 9 Octubre: Introducción a la programación
 
 ## TEMARIO
 
 ### Administración de Sistemas
 
 Curso de verano:
-  * Principios de TCP/IP : ping, direcciones IP
-  * Estructura de directorios
+  * Sistemas Unix o Windows
+  * Estructura de directorios, los 3 directorios principales
   * cd, ls , mkdir, rmdir, alias
-
 
 Semana 1:
   * Accediendo a un servidor    
@@ -26,7 +25,6 @@ Semana 1:
   * Convirtiéndose en otro usuario: su
   * Cambiando password: passwd
   * Ejecutando órdenes como super usuario: sudo
-    
     
 ### Principios de Criptografía
 
@@ -59,7 +57,6 @@ Semana 4:
   * Creando una línea de comandos programada, el back-tick "\`"
   * STDOUT and STDERR , redireccionando con poder
 
-  
 ### Programación y Diseño
 
 Curso Verano:
@@ -71,10 +68,33 @@ Semana 2:
   * Repositorios en linea: GitHub
   * Forums: StackExchange y cómo encontrar información
 
+Semana 4:
+  * Lenguajes de programación principales: C++, js, python, java, go
+  * Otros lenguages importantes: C, perl, php, C#, Swift
+  * Intérpretes y Compiladores
+  * Un ejemplo: bash
+
 ### Fundamentos de Internet
 
 Curso Verano:
   * Servidores Web y protocolo HTTP
+  * Direcciones IP, ping e ifconfig
   * URLs, composición
   * Compartiendo una estructura de directorios con un servidor web: http-server
 
+Semana 3:
+  * DNS, el servidor de nombres de internet
+  * Registro de dominios: un ejemplo
+  * Configurando el servidor de nombres
+  * digg, whois
+
+Semana ..:
+  * TCP/IP , UDP
+  * Direcciones IPV4 y IPV6 
+  * Enrutado: route y traceroute
+
+Semana ..:
+  * Proxies y firewalls
+  * Redirección IP
+  * Redes y subredes
+  
