@@ -3,10 +3,11 @@
 ## CALENDARIO
 
   1. Curso de verano: Precurso de introducción a la ciencia del hackeo
-  1. Semana 1 19 Septiembre: Usando un servidor conectado a Internet
-  1. Semana 2 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline, más sobre la línea de comandos
-  1. Semana 3 2 Octubre: Usando bash, línea de comandos avanzada. Resolución de direcciones: DNS, digg
-  1. Semana 4 9 Octubre: Introducción a la programación
+  1. Semana 1 - 19 Septiembre: Usando un servidor conectado a Internet
+  1. Semana 2 - 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline, más sobre la línea de comandos
+  1. Semana 3 - 2 Octubre: Usando bash, línea de comandos avanzada. Resolución de direcciones: DNS, digg
+  1. Semana 4 - 9 Octubre: Introducción a la programación
+  1. Semana 5 - 16 Octubre: Criptografía, hashes, signatures
 
 ## TEMARIO
 
@@ -33,6 +34,8 @@ Curso Verano:
   * Codificación de caracteres
   * Hashing techniques, sh256, MD5
   * Llaves públicas y privadas
+
+Semana 5:
   * Firmando un mensaje con la llave privada
 
 ### Línea de Comandos
