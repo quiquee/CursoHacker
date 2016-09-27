@@ -3,8 +3,9 @@
 ## CALENDARIO
 
   1. Curso de verano: Precurso de introducción a la ciencia del hackeo
-  1. Semana 19 Septiembre: Usando un servidor conectado a Internet
-  1. Semana 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline
+  1. Semana 1 19 Septiembre: Usando un servidor conectado a Internet
+  1. Semana 2 26 Septiembre: Compartiendo código y ficheros, trabajando online y offline, más sobre la línea de comandos
+  1. Semana 3 2 Octubre: Usando bash, línea de comandos avanzada. Resolución de direcciones: DNS, digg
 
 
 ## TEMARIO
@@ -41,7 +42,8 @@ Curso Verano:
 Curso Verano:
   * Diferencia entre órdenes y comandos
   * STDOUT la salida estándar y STDIN la entrada estándar
-  * Tuberías y redirecciones: "|" / ">"
+  * Arriba / Abajo / Esc+punto / Ctrl-R / Ctrl-a
+  * Tuberías y redirecciones: "|" , ">" , ">>"
 
 Semana 2:
   * Programación en la línea de comandos
@@ -50,14 +52,24 @@ Semana 2:
 
 Semana 3:
   * Manejando múltiples consolas con una sola ventana: screen
+  * Bucles en la línea de comando: for each; do ; done
   * El editor de texto vim
+  
+Semana 4:
+  * Creando una línea de comandos programada, el back-tick "\`"
+  * STDOUT and STDERR , redireccionando con poder
 
+  
 ### Programación y Diseño
 
 Curso Verano:
   * El lenguage HTML
   * Editando un fichero de texto
-  * Codificación de caracteres: tabla ASCII 
+  * Codificación de caracteres: tabla ASCII
+  
+Semana 2:
+  * Repositorios en linea: GitHub
+  * Forums: StackExchange y cómo encontrar información
 
 ### Fundamentos de Internet
 
@@ -65,3 +77,4 @@ Curso Verano:
   * Servidores Web y protocolo HTTP
   * URLs, composición
   * Compartiendo una estructura de directorios con un servidor web: http-server
+
