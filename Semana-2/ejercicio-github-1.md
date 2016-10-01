@@ -63,8 +63,11 @@ git config --global user.email enrique.melero@gmail.com
 Las órdenes de git que aprenderemos hoy son las siguientes: clone, add y push
 
 clone: copia un repositorio localmente 
+
 add: añade un fichero o directorio al repositorio local
+
 commit: confirma los cambios en el repositorio local
+
 push: sube los cambios locales al repositorio remoto (GitHub)
 
 ``` bash
