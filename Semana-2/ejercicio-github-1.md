@@ -36,13 +36,6 @@ CursoHacker
     └── temario.md
 ```
 
-Las órdenes que aprenderemos hoy son las siguientes:
-
-``` bash
-enrique@raspberrypi:~ $ git clone repository_url
-enrique@raspberrypi:~ $ git add git commit
-enrique@raspberrypi:~ $ git push
-```
 Antes de empezar con git se recomienda inicializar dos variables de entorno que git necesita
 para identificarte. Por ejemplo yo pondría:
 
@@ -51,6 +44,35 @@ enrique@raspberrypi:~ $ git config --global user.name quiquee
 enrique@raspberrypi:~ $ git config --global user.email enrique.melero@gmail.com
 ```
 
+Para evitar tener que escribir estas órdenes de iniciación del entorno de git os recomiendo
+que pongais las siguientes líneas al final del fichero .profile de vuestro directorio principal.
+
+``` 
+# This is .profile
+...
+
+# Inicializa el entorno git
+# usad aquí vuestro nombre de usuario git y la dirección email que 
+# usásteis al registraros
+
+git config --global user.name quiquee
+git config --global user.email enrique.melero@gmail.com
+
+```
+
+Las órdenes de git que aprenderemos hoy son las siguientes: clone, add y push
+
+clone: copia un repositorio localmente 
+add: añade un fichero o directorio al repositorio local
+commit: confirma los cambios en el repositorio local
+push: sube los cambios locales al repositorio remoto (GitHub)
+
+``` bash
+enrique@raspberrypi:~ $ git clone <repository_url>
+enrique@raspberrypi:~ $ git add <directorio>
+enrique@raspberrypi:~ $ git commit
+enrique@raspberrypi:~ $ git push
+```
 Podéis encontrar una descripción de cada una de estas opciones en castellano en el fantástico libro sobre
 git que existe en línea: https://git-scm.com/book/es/v1
 
